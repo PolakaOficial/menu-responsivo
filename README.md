@@ -1,6 +1,6 @@
 # menu-responsivo
 # 💻Sobre
-<p>Projeto criado com intuito de treinamendo de responsivida da NavBar.</p>
+<p>Projeto criado com intuito de treinar responsivida da NavBar.</p>
 
 # 🚀 Techs
 <ul>
